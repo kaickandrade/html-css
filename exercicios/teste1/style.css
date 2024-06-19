@@ -28,7 +28,7 @@ header h1 {
 }
 
 main {
-    background-image: linear-gradient(to bottom, var(--color0), var(--color2));
+    background-image: linear-gradient(to bottom, var(--color0), var(--color3));
     min-width: 300px;
     max-width: 1200px;
     margin: auto;
@@ -37,7 +37,7 @@ main {
 }
 
 main > nav {
-    padding: 30px 80px;
+    padding: 40px 80px;
 }
 
 nav img {
